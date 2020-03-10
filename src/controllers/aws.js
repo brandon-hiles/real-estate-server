@@ -1,10 +1,15 @@
 // Load up Libraries
 const AWS = require('aws-sdk');
-var fs = require('fs');
+const fs = require('fs');
+//const dotenv = require('dotenv')
 
+require('dotenv').config()
 
+const {ENV_AWS_ACCESS_KEY_ID, ENV_AWS_SECRET_ACCESS_KEY, ENV_DEFAULT_REGION} = process.env
 AWS.config.update({
-    region: 'ca-central-1'
+    accessKeyId: ENV_AWS_ACCESS_KEY_ID,
+    secretAccessKey: ENV_AWS_SECRET_ACCESS_KEY,
+    region: ENV_DEFAULT_REGION
 });
 
 // Initate DynamoDB instance
