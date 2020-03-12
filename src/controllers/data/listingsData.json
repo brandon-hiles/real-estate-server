@@ -670,7 +670,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "<ADD URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_42.jpg"
     },
     {
         "address": "895 Bridle Dr.",
@@ -685,8 +685,8 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
-        "image": "<ADD URL>"
+        "homeType": "Studio",
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_43.jpg"
     },
     {
         "address": "994 West St.",
@@ -702,7 +702,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "<ADD URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_44.jpg"
     },
     {
         "address": "620 Park Ave.",
@@ -733,7 +733,7 @@
             "finished_basement": true,
             "pool": true
         },
-        "homeType": "Ranch",
+        "homeType": "Cottage",
         "image": "<ADD URL>"
     },
     {
@@ -845,7 +845,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Apartment",
         "image": "<ADD URL>"
     },
     {
@@ -973,7 +973,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Studio",
         "image": "<ADD URL>"
     },
     {
@@ -1021,7 +1021,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Studio",
         "image": "<ADD URL>"
     },
     {
@@ -1085,7 +1085,7 @@
             "finished_basement": true,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Apartment",
         "image": "<ADD URL>"
     },
     {
@@ -1117,7 +1117,7 @@
             "finished_basement": true,
             "pool": true
         },
-        "homeType": "Ranch",
+        "homeType": "Cottage",
         "image": "<ADD URL>"
     },
     {
@@ -1133,7 +1133,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Studio",
         "image": "<ADD URL>"
     },
     {
@@ -1149,7 +1149,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Apartment",
         "image": "<ADD URL>"
     },
     {
@@ -1165,7 +1165,7 @@
             "finished_basement": false,
             "pool": true
         },
-        "homeType": "Ranch",
+        "homeType": "Studio",
         "image": "<ADD URL>"
     },
     {
@@ -1229,7 +1229,7 @@
             "finished_basement": true,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Apartment",
         "image": "<ADD URL>"
     },
     {
@@ -1277,7 +1277,7 @@
             "finished_basement": false,
             "pool": false
         },
-        "homeType": "Ranch",
+        "homeType": "Apartment",
         "image": "<ADD URL>"
     }
 ]

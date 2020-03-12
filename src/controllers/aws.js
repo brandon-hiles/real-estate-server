@@ -5,7 +5,9 @@ const fs = require('fs');
 
 require('dotenv').config()
 
+// These steps are used for netlify deployment of AWS Controller instead of reading .aws folder
 const {ENV_AWS_ACCESS_KEY_ID, ENV_AWS_SECRET_ACCESS_KEY, ENV_DEFAULT_REGION} = process.env
+
 AWS.config.update({
     accessKeyId: ENV_AWS_ACCESS_KEY_ID,
     secretAccessKey: ENV_AWS_SECRET_ACCESS_KEY,
