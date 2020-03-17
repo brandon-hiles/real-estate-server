@@ -1,12 +1,15 @@
 // 3rd party libraries
 const express = require('express');
 const serverless = require('serverless-http');
+const cors = require('cors');
 
 // Self Written Modules
 const aws = require('./controllers/aws')
 
 // Express Parameters
 const app = express();
+app.use(cors());
+
 const router = express.Router();
 
 // Routes
