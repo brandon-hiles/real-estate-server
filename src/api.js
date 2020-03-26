@@ -25,12 +25,12 @@ router.get('/upload', (req, res) => {
     // Upload Route: Upload our data file to AWS 
     res.send(aws.upload('./src/controllers/data/listingsData.json'))
 })
-router.get('/data', (req, res) => {
+router.get('/data/housing', (req, res) => {
     // Display Route: Display our data from DynamboDB Database
     let data = aws.grabData('Listings')
     data.then(result => res.json(result))
 })
-router.get('/data/:number', (req, res) => {
+router.get('/data/housing/:number', (req, res) => {
     // Filtered Data Route: Display number amount of results from DynamboDB
     let data = aws.grabData('Listings')
     data.then(result => {
