@@ -51,7 +51,7 @@ const upload = (fname) => {
             TableName: 'Listings',
             Item: {
                 "address": listing.address,
-                "room" : listings.rooms,
+                "room" : listing.rooms,
                 "city": listing.city,
                 "state": listing.state,
                 "price": listing.price,
