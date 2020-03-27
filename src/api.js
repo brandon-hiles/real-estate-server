@@ -45,7 +45,17 @@ router.get('/data/housing/:number', (req, res) => {
         res.json(filteredData)
     })
 })
-
+router.get('/data/users', (req, res) => {
+    let data = aws.grabData('Users')
+    data.then(result => res.json(result))
+})
+router.get('/data/users/:number', (req, res) => {
+    let data = aws.grabData('Users')
+    data.then(result => {
+        let filteredData = result.slice(0, req.params.number)
+        res.json(filteredData)
+    })
+})
 // Netlfiy configurations
 app.use('/.netlify/functions/api', router)
 
