@@ -17,13 +17,20 @@ router.get('/', (req, res) => {
     // Root Route: Display information about our server
     res.json({
         'name' : 'Cedar Property Advisors API',
-        'version' : '1.0.0',
+        'version' : '1.0.1',
         'author' : 'Brandon Hiles'
     });
 });
-router.get('/upload', (req, res) => {
+router.get('/documentation', (req, res) => {
+    res.send("Insert documentation page here")
+})
+router.get('/upload/listings', (req, res) => {
     // Upload Route: Upload our data file to AWS 
-    res.send(aws.upload('./src/controllers/data/listingsData.json'))
+    res.send(aws.upload('./src/controllers/data/listingsData.json', 'Listings'))
+})
+router.get('/upload/users', (req, res) => {
+    // Upload Route: Upload our data file to AWS 
+    res.send(aws.upload('./src/controllers/data/usersData.json', 'Users'))
 })
 router.get('/data/housing', (req, res) => {
     // Display Route: Display our data from DynamboDB Database

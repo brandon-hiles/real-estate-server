@@ -1,7 +1,6 @@
 // Load up Libraries
 const AWS = require('aws-sdk');
 const fs = require('fs');
-//const dotenv = require('dotenv')
 
 require('dotenv').config()
 
@@ -38,7 +37,7 @@ const grabData = async (tableName) => {
 }
 
 
-const upload = (fname) => {
+const upload = (fname, tname) => {
     /*
     upload: Upload new JSON file to Database.
 
@@ -46,36 +45,59 @@ const upload = (fname) => {
     fname: Location for JSON file
     */
     let listingsData = JSON.parse(fs.readFileSync(fname, 'utf8'));
-    listingsData.forEach((listing) => {
-        let params = {
-            TableName: 'Listings',
-            Item: {
-                "address": listing.address,
-                "room" : listing.rooms,
-                "city": listing.city,
-                "state": listing.state,
-                "price": listing.price,
-                "floorSpace": listing.floorSpace,
-                "extras": 
-                {
-                    "elevator": listing.extras.elevator,
-                    "gym": listing.extras.gym,
-                    "finished_basement": listing.extras.finished_basement,
-                    "pool": listing.extras.pool
-                },
-                "homeType": listing.homeType,
-                "image": listing.image
-            }
-        };
-
-        docClient.put(params, (err, data) => {
-            if (err) {
-                console.log("Unable to add listing", listing.address, ". Error JSON:", JSON.stringify(err, null, 2));
-            } else {
-                console.log("Item succeeded:", data);
-            }
-        });
-    });
+    switch(tname) {
+        case 'Listings':
+            listingsData.forEach((listing) => {
+                let params = {
+                    TableName: 'Listings',
+                    Item: {
+                        "address": listing.address,
+                        "room" : listing.rooms,
+                        "city": listing.city,
+                        "state": listing.state,
+                        "price": listing.price,
+                        "floorSpace": listing.floorSpace,
+                        "extras": 
+                        {
+                            "elevator": listing.extras.elevator,
+                            "gym": listing.extras.gym,
+                            "finished_basement": listing.extras.finished_basement,
+                            "pool": listing.extras.pool
+                        },
+                        "homeType": listing.homeType,
+                        "image": listing.image
+                    }
+                };
+        
+                docClient.put(params, (err, data) => {
+                    if (err) {
+                        console.log("Unable to add listing", listing.address, ". Error JSON:", JSON.stringify(err, null, 2));
+                    } else {
+                        console.log("Item succeeded:", data);
+                    }
+                });
+            });
+            break;
+        case 'Users':
+            listingsData.forEach((user) => {
+                let params = {
+                    TableName: 'Users',
+                    Item: {
+                        "name": user.name,
+                        "date": user.date,
+                        "image": user.image
+                    }
+                };
+        
+                docClient.put(params, (err, data) => {
+                    if (err) {
+                        console.log("Unable to add listing", user.name, ". Error JSON:", JSON.stringify(err, null, 2));
+                    } else {
+                        console.log("Item succeeded:", data);
+                    }
+                });
+            });
+    }
 }
 
 // Define our exports

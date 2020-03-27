@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Michael Austin",
+        "date": "2019-01-03",
+        "image": "<INSERT URL>"
+    },
+    {
+        "name": "Regina Ferrante",
+        "date": "2019-02-08",
+        "image": "<INSERT URL>"
+    },
+    {
+        "name": "Benton Birchfield",
+        "date": "2019-03-09",
+        "image": "<INSERT URL>"
+    },
+    {
+        "name": "William Barbee",
+        "date": "2019-01-12",
+        "image": "<INSERT URL>"
+    },
+    {
+        "name": "Bradley Mendoza",
+        "date": "2019-04-23",
+        "image": "<INSERT URL>"
+    },
+    {
+        "name": "Julie Wiles",
+        "date": "2019-02-22",
+        "image":"<INSERT URL>"
+    },
+    {
+        "name": "Elizabeth Yang",
+        "date": "2019-02-14",
+        "image":"<INSERT URL>"
+    },
+    {
+        "name": "Bernice Sperling",
+        "date": "2019-03-12",
+        "image":"<INSERT URL>"
+    },
+    {
+        "name": "Susan Metzinger",
+        "date": "2019-01-30",
+        "image": "<INSERT URL>"
+    }
+]
