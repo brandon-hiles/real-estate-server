@@ -14,7 +14,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_1.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_1.jpg"
     },
     {
         "id": 2,
@@ -31,7 +31,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_2.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_2.jpg"
     },
     {
         "id": 3,
@@ -48,7 +48,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_3.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_3.jpg"
     },
     {
         "id": 4,
@@ -65,7 +65,7 @@
             "pool": false
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_4.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_4.jpg"
     },
     {
         "id": 5,
@@ -82,7 +82,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_5.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_5.jpg"
     },
     {
         "id": 6,
@@ -99,7 +99,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_6.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_6.jpg"
     },
     {
         "id": 7,
@@ -116,7 +116,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_7.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/img_7.jpg"
     },
     {
         "id": 8,
@@ -133,7 +133,7 @@
             "pool": false
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_8.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_8.jpg"
     },
     {
         "id": 9,
@@ -150,7 +150,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_9.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_9.jpg"
     },
     {
         "id": 10,
@@ -167,7 +167,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_10.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_10.jpg"
     },
     {
         "id": 11,
@@ -184,7 +184,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_11.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_11.jpg"
     },
     {
         "id": 12,
@@ -201,7 +201,7 @@
             "pool": false
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_12.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_12.jpg"
     },
     {
         "id": 13,
@@ -218,7 +218,7 @@
             "pool": false
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_13.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_13.jpg"
     },
     {
         "id": 14,
@@ -235,7 +235,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_14.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_14.jpg"
     },
     {
         "id": 15,
@@ -252,7 +252,7 @@
             "pool": true
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_15.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_15.jpg"
     },
     {
         "id": 16,
@@ -269,7 +269,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_16.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_16.jpg"
     },
     {
         "id": 17,
@@ -286,7 +286,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_17.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_17.jpg"
     },
     {
         "id": 18,
@@ -303,7 +303,7 @@
             "pool": false
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_18.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_18.jpg"
     },
     {
         "id": 19,
@@ -320,7 +320,7 @@
             "pool": false
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_19.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_19.jpg"
     },
     {
         "id": 20,
@@ -337,7 +337,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_20.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_20.jpg"
     },
     {
         "id": 21,
@@ -354,7 +354,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_21.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_21.jpg"
     },
     {
         "id": 22,
@@ -371,7 +371,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_22.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_22.jpg"
     },
     {
         "id": 23,
@@ -388,7 +388,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_23.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_23.jpg"
     },
     {
         "id": 24,
@@ -405,7 +405,7 @@
             "pool": false
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_24.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_24.jpg"
     },
     {
         "id": 25,
@@ -422,7 +422,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_25.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_25.jpg"
     },
     {
         "id": 26,
@@ -439,7 +439,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_26.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_26.jpg"
     },
     {
         "id": 27,
@@ -456,7 +456,7 @@
             "pool": true
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_27.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_27.jpg"
     },
     {
         "id": 28,
@@ -473,7 +473,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_28.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_28.jpg"
     },
     {
         "id": 29,
@@ -490,7 +490,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_29.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_29.jpg"
     },
     {
         "id": 30,
@@ -507,7 +507,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_30.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_30.jpg"
     },
     {
         "id": 31,
@@ -524,7 +524,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_31.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_31.jpg"
     },
     {
         "id": 32,
@@ -541,7 +541,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_32.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_32.jpg"
     },
     {
         "id": 33,
@@ -558,7 +558,7 @@
             "pool": false
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_33.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_33.jpg"
     },
     {
         "id": 34,
@@ -575,7 +575,7 @@
             "pool": true
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_34.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locationsimg_34.jpg"
     },
     {
         "id": 35,
@@ -592,7 +592,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_35.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_35.jpg"
     },
     {
         "id": 36,
@@ -609,7 +609,7 @@
             "pool": false
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_36.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_36.jpg"
     },
     {
         "id": 37,
@@ -626,7 +626,7 @@
             "pool": true
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_37.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_37.jpg"
     },
     {
         "id": 38,
@@ -643,7 +643,7 @@
             "pool": false
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_38.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_38.jpg"
     },
     {
         "id": 39,
@@ -660,7 +660,7 @@
             "pool": true
         },
         "homeType": "Ranch",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_39.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_39.jpg"
     },
     {
         "id": 40,
@@ -677,7 +677,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_40.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_40.jpg"
     },
     {
         "id": 41,
@@ -694,7 +694,7 @@
             "pool": false
         },
         "homeType": "Apartment",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_41.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_41.jpg"
     },
     {
         "id": 42,
@@ -711,7 +711,7 @@
             "pool": true
         },
         "homeType": "Cottage",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_42.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_42.jpg"
     },
     {
         "id": 43,
@@ -728,7 +728,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_43.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_43.jpg"
     },
     {
         "id": 44,
@@ -745,7 +745,7 @@
             "pool": false
         },
         "homeType": "Studio",
-        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/img_44.jpg"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/locations/img_44.jpg"
     },
     {
         "id": 45,

@@ -3,61 +3,61 @@
         "id": 1,
         "name": "Michael Austin",
         "date": "2019-01-03",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_1.jpg"
     },
     {
         "id": 2,
         "name": "Regina Ferrante",
         "date": "2019-02-08",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_2.jpg"
     },
     {
         "id": 3,
         "name": "Benton Birchfield",
         "date": "2019-03-09",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_3.jpg"
     },
     {
         "id": 4,
         "name": "William Barbee",
         "date": "2019-01-12",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_4.jpg"
     },
     {
         "id": 5,
         "name": "Bradley Mendoza",
         "date": "2019-04-23",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_5.jpg"
     },
     {
         "id": 6,
         "name": "Julie Wiles",
         "date": "2019-02-22",
-        "image":"<INSERT URL>"
+        "image":"https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_6.jpg"
     },
     {
         "id": 7,
         "name": "Elizabeth Yang",
         "date": "2019-02-14",
-        "image":"<INSERT URL>"
+        "image":"https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_7.jpg"
     },
     {
         "id": 8,
         "name": "Bernice Sperling",
         "date": "2019-03-12",
-        "image":"<INSERT URL>"
+        "image":"https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_8.jpg"
     },
     {
         "id": 9,
         "name": "Susan Metzinger",
         "date": "2019-01-30",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_9.jpg"
     },
     {
         "id": 10,
         "name": "Louise Costello",
         "date": "2019-01-31",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_10.jpg"
     },
     {
         "id": 11,
@@ -92,391 +92,391 @@
     {
         "id": 16,
         "name": "Matthew Schmidt",
-        "date": "",
+        "date": "2019-01-08",
         "image": "<INSERT URL>"
     },
     {
         "id": 17,
         "name": "Bridget Meyer",
-        "date": "",
+        "date": "2019-01-20",
         "image": "<INSERT URL>"
     },
     {
         "id": 18,
         "name": "Sally Keys",
-        "date": "",
+        "date": "2019-01-12",
         "image": "<INSERT URL>"
     },
     {
         "id": 19,
         "name": "Tommy Wilson",
-        "date": "",
+        "date": "2019-02-05",
         "image": "<INSERT URL>"
     },
     {
         "id": 20,
-        "name": "",
-        "date": "",
+        "name": "Marie Oglesby",
+        "date": "2019-01-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 21,
         "name": "Carolee Webber",
-        "date": "",
+        "date": "2019-02-18",
         "image": "<INSERT URL>"
     },
     {
         "id": 22,
         "name": "Edna Rushing",
-        "date": "",
+        "date": "2019-03-10",
         "image": "<INSERT URL>"
     },
     {
         "id": 23,
         "name": "Robert King",
-        "date": "",
+        "date": "2019-03-20",
         "image": "<INSERT URL>"
     },
     {
         "id": 24,
         "name": "Brandy Piper",
-        "date": "",
+        "date": "2019-03-30",
         "image": "<INSERT URL>"
     },
     {
         "id": 25,
         "name": "Amanda Lugo",
-        "date": "",
+        "date": "2019-01-14",
         "image": "<INSERT URL>"
     },
     {
         "id": 26,
         "name": "Mary Harris",
-        "date": "",
+        "date": "2019-01-13",
         "image": "<INSERT URL>"
     },
     {
         "id": 27,
         "name": "Mary Ross",
-        "date": "",
+        "date": "2019-03-10",
         "image": "<INSERT URL>"
     },
     {
         "id": 28,
         "name": "Sabrina Wagoner",
-        "date": "",
+        "date": "2019-01-24",
         "image": "<INSERT URL>"
     },
     {
         "id": 29,
         "name": "Betty Pierce",
-        "date": "",
+        "date": "2019-02-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 30,
         "name": "Evelyn Donovan",
-        "date": "",
+        "date": "2019-01-31",
         "image": "<INSERT URL>"
     },
     {
         "id": 31,
         "name": "Craig Mills",
-        "date": "",
+        "date": "2019-02-23",
         "image": "<INSERT URL>"
     },
     {
         "id": 32,
         "name": "Maria Chaput",
-        "date": "",
+        "date": "2019-01-04",
         "image": "<INSERT URL>"
     },
     {
         "id": 33,
         "name": "Kimberly Mercado",
-        "date": "",
+        "date": "2019-01-31",
         "image": "<INSERT URL>"
     },
     {
         "id": 34,
         "name": "Stephanie Ortiz",
-        "date": "",
+        "date": "2019-03-10",
         "image": "<INSERT URL>"
     },
     {
         "id": 35,
         "name": "Brian Pridemore",
-        "date": "",
+        "date": "2019-03-07",
         "image": "<INSERT URL>"
     },
     {
         "id": 36,
         "name": "Larry Ogan",
-        "date": "",
+        "date": "2019-03-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 37,
         "name": "Jeffrey Keel",
-        "date": "",
+        "date": "2019-02-24",
         "image": "<INSERT URL>"
     },
     {
         "id": 38,
         "name": "Penny Timmons",
-        "date": "",
+        "date": "2019-03-24",
         "image": "<INSERT URL>"
     },
     {
         "id": 39,
         "name": "Donnie Poynter",
-        "date": "",
+        "date": "2019-03-02",
         "image": "<INSERT URL>"
     },
     {
         "id": 40,
         "name": "Maureen Wade",
-        "date": "",
+        "date": "2019-01-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 41,
         "name": "Bernice Perez",
-        "date": "",
+        "date": "2019-01-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 42,
         "name": "Pam Bourgoin",
-        "date": "",
+        "date": "2019-02-26",
         "image": "<INSERT URL>"
     },
     {
         "id": 43,
         "name": "Nancy Reed",
-        "date": "",
+        "date": "2019-02-01",
         "image": "<INSERT URL>"
     },
     {
         "id": 44,
         "name": "Mary Kuhns",
-        "date": "",
+        "date": "2019-02-24",
         "image": "<INSERT URL>"
     },
     {
         "id": 45,
         "name": "David Stewart",
-        "date": "",
+        "date": "2019-02-14",
         "image": "<INSERT URL>"
     },
     {
         "id": 46,
         "name": "Nellie Barton",
-        "date": "",
+        "date": "2019-03-07",
         "image": "<INSERT URL>"
     },
     {
         "id": 47,
         "name": "Mathilde Sharpe",
-        "date": "",
+        "date": "2019-01-06",
         "image": "<INSERT URL>"
     },
     {
         "id": 48,
         "name": "Sara Fields",
-        "date": "",
+        "date": "2019-03-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 49,
         "name": "Joe Rivera",
-        "date": "",
+        "date": "2019-03-02",
         "image": "<INSERT URL>"
     },
     {
         "id": 50,
         "name": "Anna McHaney",
-        "date": "",
+        "date": "2019-03-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 51,
         "name": "Mildred Crawford",
-        "date": "",
+        "date": "2019-03-18",
         "image": "<INSERT URL>"
     },
     {
         "id": 52,
         "name": "May Kim",
-        "date": "",
+        "date": "2019-03-03",
         "image": "<INSERT URL>"
     },
     {
         "id": 53,
         "name": "William Smith",
-        "date": "",
+        "date": "2019-01-14",
         "image": "<INSERT URL>"
     },
     {
         "id": 54,
         "name": "Tony Stancil",
-        "date": "",
+        "date": "2019-02-18",
         "image": "<INSERT URL>"
     },
     {
         "id": 55,
         "name": "Roger Garrett",
-        "date": "",
+        "date": "2019-03-05",
         "image": "<INSERT URL>"
     },
     {
         "id": 56,
         "name": "Willie Gage",
-        "date": "",
+        "date": "2019-01-24",
         "image": "<INSERT URL>"
     },
     {
         "id": 57,
         "name": "Donald Crist",
-        "date": "",
+        "date": "2019-02-15",
         "image": "<INSERT URL>"
     },
     {
         "id": 58,
         "name": "James Franklin",
-        "date": "",
+        "date": "2019-02-19",
         "image": "<INSERT URL>"
     },
     {
         "id": 59,
         "name": "Paula Vivier",
-        "date": "",
+        "date": "2019-01-14",
         "image": "<INSERT URL>"
     },
     {
         "id": 60,
         "name": "Lonna Marlow",
-        "date": "",
+        "date": "2019-03-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 61,
         "name": "Fred Hewitt",
-        "date": "",
+        "date": "2019-01-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 62,
         "name": "Laura Lewis",
-        "date": "",
+        "date": "2019-02-19",
         "image": "<INSERT URL>"
     },
     {
         "id": 63,
         "name": "Delores Goodrich",
-        "date": "",
+        "date": "2019-01-07",
         "image": "<INSERT URL>"
     },
     {
         "id": 64,
         "name": "Rena Bishop",
-        "date": "",
+        "date": "2019-01-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 65,
         "name": "Juan Lewis",
-        "date": "",
+        "date": "2019-02-17",
         "image": "<INSERT URL>"
     },
     {
         "id": 66,
         "name": "Martin Green",
-        "date": "",
+        "date": "2019-01-07",
         "image": "<INSERT URL>"
     },
     {
         "id": 67,
         "name": "Daniel Hall",
-        "date": "",
+        "date": "2019-03-17",
         "image": "<INSERT URL>"
     },
     {
         "id": 68,
         "name": "Denise Barbour",
-        "date": "",
+        "date": "2019-02-18",
         "image": "<INSERT URL>"
     },
     {
         "id": 69,
         "name": "Marvin Clemons",
-        "date": "",
+        "date": "2019-03-08",
         "image": "<INSERT URL>"
     },
     {
         "id": 70,
         "name": "Gary Struble",
-        "date": "",
+        "date": "2019-01-11",
         "image": "<INSERT URL>"
     },
     {
         "id": 71,
         "name": "Gordon Anthony",
-        "date": "",
+        "date": "2019-03-07",
         "image": "<INSERT URL>"
     },
     {
         "id": 72,
         "name": "Billy Gandy",
-        "date": "",
+        "date": "2019-03-19",
         "image": "<INSERT URL>"
     },
     {
         "id": 73,
         "name": "Travis Lee",
-        "date": "",
+        "date": "2019-02-02",
         "image": "<INSERT URL>"
     },
     {
         "id": 74,
         "name": "Derek Littrell",
-        "date": "",
+        "date": "2019-03-08",
         "image": "<INSERT URL>"
     },
     {
         "id": 75,
         "name": "Donald Perry",
-        "date": "",
+        "date": "2019-03-30",
         "image": "<INSERT URL>"
     },
     {
         "id": 76,
         "name": "Travis Moseley",
-        "date": "",
+        "date": "2019-01-04",
         "image": "<INSERT URL>"
     },
     {
         "id": 77,
         "name": "Christy Ross",
-        "date": "",
+        "date": "2019-01-29",
         "image": "<INSERT URL>"
     },
     {
         "id": 78,
         "name": "Helen Sims",
-        "date": "",
+        "date": "2019-01-14",
         "image": "<INSERT URL>"
     },
     {
         "id": 79,
         "name": "Tamra Ingram",
-        "date": "",
+        "date": "2019-02-19",
         "image": "<INSERT URL>"
     },
     {
         "id": 80,
         "name": "Luis Joyce",
-        "date": "",
+        "date": "2019-02-20",
         "image": "<INSERT URL>"
     }   
 ]
