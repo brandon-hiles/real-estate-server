@@ -63,31 +63,31 @@
         "id": 11,
         "name": "Dorothy Palacio",
         "date": "2019-02-03",
-        "image": "<INSERT URL>" 
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_11.jpg" 
     },
     {
         "id": 12,
         "name": "Benjamin Spada",
         "date": "2019-02-18",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_12.jpg"
     },
     {
         "id": 13,
         "name": "Mildred Andersen",
         "date": "2019-02-12",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_13.jpg"
     },
     {
         "id": 14,
         "name": "Matilda Stark",
         "date": "2019-02-19",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_14.jpg"
     },
     {
         "id": 15,
         "name": "Robert Clemens",
         "date": "2019-02-10",
-        "image": "<INSERT URL>"
+        "image": "https://cedar-property-advisors.s3.ca-central-1.amazonaws.com/imgs/users/user_15.jpg"
     },
     {
         "id": 16,
