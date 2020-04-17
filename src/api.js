@@ -1,5 +1,6 @@
 // 3rd party libraries
 const express = require('express');
+const path = require('path');
 const serverless = require('serverless-http');
 const cors = require('cors');
 
@@ -17,12 +18,12 @@ router.get('/', (req, res) => {
     // Root Route: Display information about our server
     res.json({
         'name' : 'Cedar Property Advisors API',
-        'version' : '1.0.1',
+        'version' : '1.0.2',
         'author' : 'Brandon Hiles'
     });
 });
 router.get('/documentation', (req, res) => {
-    res.send("Insert documentation page here")
+    res.send("<html><head><title>Documentation Page </title></head><body><h1> Documentation Page </h1><h2>Route 1: /upload/listings</h2><p> Test</p></body></html>")
 })
 router.get('/upload/listings', (req, res) => {
     // Upload Route: Upload our data file to AWS 
