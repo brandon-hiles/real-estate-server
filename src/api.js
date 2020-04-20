@@ -19,7 +19,8 @@ router.get('/', (req, res) => {
     res.json({
         'name' : 'Cedar Property Advisors API',
         'version' : '1.0.2',
-        'author' : 'Brandon Hiles'
+        'author' : 'Brandon Hiles',
+        'documentation': "./documentation"
     });
 });
 router.get('/documentation', (req, res) => {
