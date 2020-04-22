@@ -24,9 +24,30 @@ router.get('/', (req, res) => {
     });
 });
 router.get('/documentation', (req, res) => {
+    let page = 
+    `<html>
+        <head>
+            <title> Documentation page </title>
+        </head>
+        <body>
+        <h1> Documentation Page </h1>
+        <table>
+            <thead>
+                <tr>
+                    <th> Path </th>
+                    <th> URL Parameters </th>
+                    <th> Description </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> ./upload/listings </td>
+                </tr>
+            </tbody>
+        </body>
+    </html>`
+    res.send(page)
     //res.send("<html><head><title>Documentation Page </title></head><body><h1> Documentation Page </h1><h2>Route 1: /upload/listings</h2><p> Test</p></body></html>")
-    //res.sendFile(__dirname + "Users/brandonhiles/dev/apps/server/src/views/documentation.html")
-    res.sendFile(__dirname + '/views/documentation.html')
 })
 router.get('/upload/listings', (req, res) => {
     // Upload Route: Upload our data file to AWS 
