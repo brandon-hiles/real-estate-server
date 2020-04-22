@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
     // Root Route: Display information about our server
     res.json({
         'name' : 'Cedar Property Advisors API',
-        'version' : '1.0.3',
+        'version' : '1.0.4',
         'author' : 'Brandon Hiles',
         'documentation': "./documentation"
     });
@@ -34,20 +34,53 @@ router.get('/documentation', (req, res) => {
         <table>
             <thead>
                 <tr>
-                    <th> Path </th>
+                    <th> Endpoints </th>
                     <th> URL Parameters </th>
+                    <th> Request type </th>
                     <th> Description </th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td> ./upload/listings </td>
+                    <td> ./upload/listings </td> 
+                    <td> None </td>
+                    <td> GET </td>
+                    <td> This path is used for uploading our listings data file to AWS </td>
+                </tr>
+                <tr>
+                    <td> ./upload/users </td>
+                    <td> None </td>
+                    <td> GET </td>
+                    <td> This path is used for uploading our users data file to AWS </td>
+                </tr>
+                <tr>
+                    <td> ./data/housing </td>
+                    <td> None </td>
+                    <td> GET </td>
+                    <td> This path is used for recieving all housing data points from AWS </td>
+                </tr>
+                <tr>
+                    <td> ./data/housing/:number </td>
+                    <td> number: The number of data points </td>
+                    <td> GET </td>
+                    <td> This path is used for receiving a specific number of housing data points from AWS </td>
+                </tr>
+                <tr>
+                    <td> ./data/users </td>
+                    <td> None </td>
+                    <td> GET </td>
+                    <td> This path is used for recieving all users data points from AWS </td>
+                </tr>
+                <tr>
+                    <td> ./data/users/:number </td>
+                    <td> number: The number of data points </td>
+                    <td> GET </td>
+                    <td> This path is used for receiving a specific number of user data points from AWS </td>                    
                 </tr>
             </tbody>
         </body>
     </html>`
     res.send(page)
-    //res.send("<html><head><title>Documentation Page </title></head><body><h1> Documentation Page </h1><h2>Route 1: /upload/listings</h2><p> Test</p></body></html>")
 })
 router.get('/upload/listings', (req, res) => {
     // Upload Route: Upload our data file to AWS 
