@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
     // Root Route: Display information about our server
     res.json({
         'name' : 'Cedar Property Advisors API',
-        'version' : '1.0.2',
+        'version' : '1.0.3',
         'author' : 'Brandon Hiles',
         'documentation': "./documentation"
     });
