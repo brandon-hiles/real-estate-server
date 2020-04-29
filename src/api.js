@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
     // Root Route: Display information about our server
     res.json({
         'name' : 'Cedar Property Advisors API',
-        'version' : '1.0.4',
+        'version' : '1.1.0',
         'author' : 'Brandon Hiles',
         'documentation': "./documentation"
     });
@@ -82,13 +82,15 @@ router.get('/documentation', (req, res) => {
     </html>`
     res.send(page)
 })
-router.get('/upload/listings', (req, res) => {
+router.post('/upload/listings', (req, res) => {
     // Upload Route: Upload our data file to AWS 
-    res.send(aws.upload('./src/controllers/data/listingsData.json', 'Listings'))
+    aws.upload('./src/controllers/data/listingsData.json', 'Listings')
+    res.send("Successful upload")
 })
-router.get('/upload/users', (req, res) => {
+router.post('/upload/users', (req, res) => {
     // Upload Route: Upload our data file to AWS 
-    res.send(aws.upload('./src/controllers/data/usersData.json', 'Users'))
+    aws.upload('./src/controllers/data/usersData.json', 'Users')
+    res.send("Successful upload")
 })
 router.get('/data/housing', (req, res) => {
     // Display Route: Display our data from DynamboDB Database
