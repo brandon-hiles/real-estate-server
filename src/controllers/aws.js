@@ -97,6 +97,7 @@ const upload = (fname, tname) => {
                     }
                 });
             });
+            break;
     }
 }
 
