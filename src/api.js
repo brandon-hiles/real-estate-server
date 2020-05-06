@@ -44,13 +44,13 @@ router.get('/documentation', (req, res) => {
                 <tr>
                     <td> ./upload/listings </td> 
                     <td> None </td>
-                    <td> GET </td>
+                    <td> POST </td>
                     <td> This path is used for uploading our listings data file to AWS </td>
                 </tr>
                 <tr>
                     <td> ./upload/users </td>
                     <td> None </td>
-                    <td> GET </td>
+                    <td> POST </td>
                     <td> This path is used for uploading our users data file to AWS </td>
                 </tr>
                 <tr>
